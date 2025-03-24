@@ -1,0 +1,29 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+table {
+    width: 80% ;
+    margin: auto;
+    border-collapse: collapse;
+}
+td {
+    border: 1px solid black;
+    padding: 10px;
+}
+.header {
+    font-size: 40px;
+    font-weight: bold;
+    background-color: #f6ff00;
+    color: white;
+}
+.menu td {
+    background-color: #f2f2f2;
+}
+.content td {
+    height: 200px;
+}
+.footer {
+    background-color: #f6ff00;
+    color: white;
+}
